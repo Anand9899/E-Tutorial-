@@ -72,9 +72,9 @@
                 <li class="nav-item">
                     <a class="nav-link text-dark" href="RegistrationStudent.jsp">Registration</a>
                 </li>
-                <li class="nav-item">
+               <!--  <li class="nav-item">
                     <a class="nav-link text-dark" href="Student.jsp">Student</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link text-dark" href="Logout.jsp">Logout</a>
                 </li>
